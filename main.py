@@ -64,7 +64,7 @@ e3.place(x=110,y=150)
 b2=Button(f1,text="Convert",width=10,height=6,fg="white",bg="gold",command=sacend)
 b2.place(x=480,y=49)
 
-logo=PhotoImage(file="please2.png")
+logo=PhotoImage(file="cover.png")
 logo_label=Label(w,image=logo)
 logo_label.place(x=1,y=200,width=560,height=250)
 w.mainloop()
